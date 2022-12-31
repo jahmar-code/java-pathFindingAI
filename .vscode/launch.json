@@ -1,0 +1,42 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pyramid",
+            "request": "launch",
+            "mainClass": "Pyramid",
+            "projectName": "Assign03_9ebe8bd8"
+        },
+        {
+            "type": "java",
+            "name": "Launch TestStackMap",
+            "request": "launch",
+            "mainClass": "TestStackMap",
+            "projectName": "Assign03_9ebe8bd8"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pyramid(1)",
+            "request": "launch",
+            "mainClass": "Pyramid",
+            "projectName": "Assign03"
+        },
+        {
+            "type": "java",
+            "name": "Launch TestStackMap(1)",
+            "request": "launch",
+            "mainClass": "TestStackMap",
+            "projectName": "Assign03"
+        }
+    ]
+}
